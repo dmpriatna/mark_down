@@ -1,5 +1,11 @@
 # mark_down
 
+https://github.com/parallax/jsPDF
+
+https://codepen.io/jordanwillis/pen/peqVOM
+
+https://github.com/eligrey/FileSaver.js
+
 Latest release is 1.1.30 (October 14, 2024)
 https://www.yiiframework.com/download#yii1
 
