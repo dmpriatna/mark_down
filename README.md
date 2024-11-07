@@ -1,5 +1,24 @@
 # mark_down
 
+# php docker
+https://github.com/mlocati/docker-php-extension-installer
+
+https://medium.com/@JanFaessler/setup-local-lamp-stack-on-mac-with-homebrew-47eb8d6d53ea
+
+https://www.paulleasure.com/apache/creating-a-docker-container-for-a-legacy-php-5-6-system-with-ssl-on-apache/
+
+https://daredevel.com/post/2022-03-19-how-to-setup-docker-container-with-legacy-php-5.6-and-xdebug/
+
+https://defineway.com/awesome/software-engineering/web/how-to-create-a-docker-project-with-php-5-6-mysql-apache-with-ssl/
+
+https://gist.github.com/guibranco/9342f83c5e51b7ec85d9046c652d1074
+
+https://about.samarth.ac.in/docs/dev/starter-guide/multiple-php-versions/
+
+https://www.proweb.co.id/articles/docker/php-5-6.html
+https://github.com/andregugliotti/docker-nginx-php56-mysql
+# end
+
 https://github.com/parallax/jsPDF
 
 https://codepen.io/jordanwillis/pen/peqVOM
