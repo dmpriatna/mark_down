@@ -1,4 +1,6 @@
 # mark_down
+https://www.pontikis.net/blog/how-and-when-to-enable-mysql-logs
+
 https://datatables.net/examples/data_sources/server_side.html
 
 https://live.datatables.net/jibamefa/2/edit
