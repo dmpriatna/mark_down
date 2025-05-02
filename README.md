@@ -1,4 +1,8 @@
 # mark_down
+https://michaelcurrin.github.io/code-cookbook/recipes/javascript/packages/vue/no-build-step.html
+
+https://dev.to/webdeasy/how-to-build-a-vuejs-app-without-node-webpack-npm-or-build-tools-2b57
+
 https://www.pontikis.net/blog/how-and-when-to-enable-mysql-logs
 
 https://datatables.net/examples/data_sources/server_side.html
