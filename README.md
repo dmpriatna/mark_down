@@ -53,6 +53,12 @@ https://github.com/flutter-ml/google_ml_kit_flutter
 # end
 
 # flutter
+https://blog.flutterflow.io/chatgpt-api-flutterflow-integration-tutorial/
+
+https://protocoderspoint.com/openai-image-generation-in-flutter-using-api/
+
+https://medium.com/@Toglefritz/use-openais-apis-in-flutter-without-plugins-3d183baa0ff0
+
 https://codelabs.developers.google.com/codelabs/flutter-webview
 # end
 
